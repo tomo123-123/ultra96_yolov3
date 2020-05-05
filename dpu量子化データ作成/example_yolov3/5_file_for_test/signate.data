@@ -1,0 +1,4 @@
+classes = 6
+
+valid = /home/training/YoloTinySignate/Darknet-Caffe-Conversion/example_yolov3/5_file_for_test/image.txt
+names = /home/training/YoloTinySignate/Darknet-Caffe-Conversion/example_yolov3/5_file_for_test/signate.names

@@ -1,0 +1,1 @@
+/home/training/YoloTinySignate/Darknet-Caffe-Conversion/example_yolov3/5_file_for_test/test.jpg
